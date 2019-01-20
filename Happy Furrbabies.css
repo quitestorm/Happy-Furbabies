@@ -1,0 +1,22 @@
+
+
+
+body{
+    background-color: aqua;
+    font-family:"AR BERKLEY";}
+
+h1 {
+    border:outset;
+    color:red;
+    background-color:mediumspringgreen;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family:'Agency FB';
+    font-weight: 900;
+}
+
+textarea{
+    background-color: chartreuse;
+  
+}
